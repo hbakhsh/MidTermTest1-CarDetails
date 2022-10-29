@@ -1,3 +1,9 @@
+/* File Name: cars.js
+    Name: Husna Bakhshi
+Student#: 301194192
+Date: 28 Oct 2022
+*/
+
 let mongoose = require("mongoose");
 
 // create a model class
